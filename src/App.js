@@ -17,7 +17,7 @@ function App() {
   return (
     <div>
 
-      <h2>Welcome to Dappazon</h2>
+      <h2>Welcome to Dappecom</h2>
 
     </div>
   );
